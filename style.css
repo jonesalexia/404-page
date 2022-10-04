@@ -9,8 +9,7 @@ body {
     background: #FFFFFF;
     font-family: 'Space Mono', monospace;
     font-style: normal;
-    box-shadow: 0px 2px 24px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
+   
    
 }
 
@@ -37,6 +36,13 @@ img {
     width: 539px;
     height: 470px;
     margin: 265px 200px 0 77px;
+}
+
+.image {
+    width: 725px;
+}
+.text {
+    width: 400px;
 }
 
 h1 {
