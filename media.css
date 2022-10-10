@@ -1,6 +1,7 @@
  @media screen and (max-width: 768px) {
     
     body {
+        overflow-x: hidden;
         width: 375px;
         height: 949px;
     }
@@ -50,6 +51,9 @@
     padding-bottom: 24px;
    }
 
+   .image {
+    width: min-content;
+   }
 }
 
   
